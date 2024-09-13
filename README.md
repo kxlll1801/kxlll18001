@@ -1,6 +1,6 @@
 # hi hello 
 Boas vindas ao meu perfil 💙💙
-Meu nome é nome sobrenome
+Meu nome é kauê iago
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
